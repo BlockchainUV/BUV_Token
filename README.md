@@ -8,17 +8,15 @@ With holistic understanding of the fundamental aspects of technology and prospec
 
 [https://www.10xcoderkids.com/blockchain-consulting](https://www.10xcoderkids.com/blockchain-consulting)
 
-# Supply Chain
+# BUV Token
 
-This is a Supply Chain smart contract prototype on ethereum blockchain developed using javascript, solidity, truffle, ganache et al.
+This is a BUV Token smart contract developed using solidity and deployed on ethereum testnet / ropsten blockchain.
 
-[https://github.com/BlockchainUV/SupplyChain](https://github.com/BlockchainUV/SupplyChain)
+[Token : https://ropsten.etherscan.io/token/0xc15bb309303dfa5c118f3dff946e614292382864](https://ropsten.etherscan.io/token/0xc15bb309303dfa5c118f3dff946e614292382864)
 
-# NFT Market
+[Dapp : https://ropsten.etherscan.io/dapp/0xc15bb309303dfa5c118f3dff946e614292382864](https://ropsten.etherscan.io/dapp/0xc15bb309303dfa5c118f3dff946e614292382864)
 
-This is a NFT Market smart contract prototype on ethereum blockchain developed using solidity, truffle, ganache et al.
-
-[https://github.com/BlockchainUV/nft_market](https://github.com/BlockchainUV/nft_market)
+[Code : https://github.com/BlockchainUV/BUV_Token](https://github.com/BlockchainUV/BUV_Token)
 
 # Contact Us
 
